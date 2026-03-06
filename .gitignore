@@ -1,0 +1,6 @@
+**/__pycache__/
+**/.cache/
+datasets/
+models/
+results/
+thirdparty/

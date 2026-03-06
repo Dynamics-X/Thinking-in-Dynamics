@@ -1,0 +1,4 @@
+# put your huggingface model id here, one per line(use # to comment out)
+# example:
+# Qwen/Qwen-VL-8B-Instruct
+# # Qwen/Qwen3-VL-235B-A22B-Instruct

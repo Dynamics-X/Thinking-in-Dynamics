@@ -1,0 +1,19 @@
+datasets:
+  repo_name: "Huggingface/DatasetsRepo"
+  datasets_path: "path/for/your/datasets/download"
+
+model:
+  model_path: "path/to/model"
+  model_name: "Huggingface/ModelID"
+  download_path: "path/for/your/model/download"
+  device: "cuda"
+  torch_dtype: "bfloat16"
+  use_flash_attn: true
+  trust_remote_code: true
+
+task: "all"  # choices: all / qa / mask
+
+evaluation:
+  boundary_threshold: 2
+
+result_path: "results"
