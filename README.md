@@ -1,6 +1,9 @@
 <div align="center" style="font-family: charter;">
 
-<h1><i>Thinking in Dynamics</i>:<br/> How Multimodal Large Language Models Perceive, Track, and Reason Dynamics in Physical 4D World</h1>
+<h1>
+    <img src="docs/resources/horse-riding.png" width="40" style="position: relative; left: 10px;"/>
+    <i>Thinking in Dynamics</i>:<br/> How Multimodal Large Language Models Perceive, Track, and Reason Dynamics in Physical 4D World
+</h1>
 
 <img src="docs/resources/paper.png" width="50%"/>
 <br />
