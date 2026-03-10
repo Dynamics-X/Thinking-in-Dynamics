@@ -1,7 +1,7 @@
 <div align="center" style="font-family: charter;">
 
 <h1>
-    <img src="docs/resources/icon.png" width="80" style="position: relative; top: 15px; left: 10px;"/>
+    <img src="docs/resources/icon.png" width="80" style="position: relative; top: 20px; left: 20px;"/>
     <i>Thinking in Dynamics</i>:<br/> How Multimodal Large Language Models Perceive, Track, and Reason Dynamics in Physical 4D World
 </h1>
 
@@ -14,37 +14,15 @@
 <a href="https://dxuan77.github.io/Thinking-in-Dynamics/" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/🌎_Website-thinking--in--dynamics-blue.svg" height="20" />
 </a>
-<a href="https://huggingface.co/datasets/kairunwen/DynamicVerse" target="_blank">
-    <img alt="HF Dataset: DynamicVerse" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Dataset-DynamicVerse-ffc107?color=ffc107&logoColor=white" height="20" />
+<a href="https://huggingface.co/datasets/yu2hi13/Dyn-Bench" target="_blank">
+    <img alt="HF Dataset: Dyn_Bench" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Dataset-DynamicVerse-ffc107?color=ffc107&logoColor=white" height="20" />
 </a>
-<a href="https://github.com/Dynamics-X/DynamicVerse" target="_blank">
+<a href="https://github.com/Dynamics-X/Thinking-in-Dynamics" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-DynamicVerse-black?logo=github" height="20" />
 </a>
-<a href="https://www.youtube.com/watch?v=0h7XysIpG8Y" target="_blank">
+<!-- <a href="https://www.youtube.com/watch?v=0h7XysIpG8Y" target="_blank">
     <img alt="Demo Video" src="https://img.shields.io/badge/▶_Demo-YouTube-red?logo=youtube" height="20" />
-</a>
-
-<div>
-    Kairun Wen<sup>*</sup>,&ensp;
-    Yuzhi Huang<sup>*</sup>,&ensp;
-    Runyu Chen<sup>*</sup>,&ensp;
-    Hui Zheng,&ensp;
-    Yunlong Lin,&ensp;
-    Panwang Pan,&ensp;
-    Chenxin Li,&ensp;
-    Wenyan Cong,&ensp;
-    Jian Zhang,&ensp;
-    Junbin Lu,&ensp;
-    Chenguo Lin,&ensp;
-    Dilin Wang,&ensp;
-    Zhicheng Yan,&ensp;
-    Hongyu Xu,&ensp;
-    Justin Theiss,&ensp;
-    Yue Huang,&ensp;
-    Xinghao Ding,&ensp;
-    Rakesh Ranjan,&ensp;
-    Zhiwen Fan
-</div>
+</a> -->
 
 <img src="docs/resources/teaser.png" width="100%"/>
 <p align="justify"><i>Humans inhabit a physical 4D world where geometric structure and semantic content evolve over time. While current Multimodal Large Language Models (MLLMs) excel in static visual understanding, can they also be adept at "thinking in dynamics" — perceiving, tracking and reasoning about spatio-temporal dynamics in evolving scenes? We introduce <strong>Dyn-Bench</strong>, a large-scale benchmark comprising 1k videos, 7k VQA pairs, and 3k dynamic object grounding pairs, systematically assessing MLLMs' ability to perceive, track, and reason about object motion, scene evolution, and camera motion in the physical 4D world.</i></p>
