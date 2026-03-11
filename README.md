@@ -1,7 +1,7 @@
 <div align="center" style="font-family: charter;">
 
 <h1>
-    <img src="docs/resources/icon.png" width="80" style="position: relative; top: 20px; left: 20px;"/>
+    <img src="docs/resources/icon.png" width="80" style="position: relative; top: 0px; left: 0px;"/>
     <i>Thinking in Dynamics</i>:<br/> How Multimodal Large Language Models Perceive, Track, and Reason Dynamics in Physical 4D World
 </h1>
 
