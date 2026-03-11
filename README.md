@@ -11,14 +11,14 @@
 <a href="https://arxiv.org/abs/2512.03000" target="_blank">
     <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2512.03000-red?logo=arxiv" height="20" />
 </a>
-<a href="https://dxuan77.github.io/Thinking-in-Dynamics/" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/🌎_Website-thinking--in--dynamics-blue.svg" height="20" />
+<a href="https://dyn-bench.github.io/" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/🌎_Website-Thinking--in--Dynamics-blue.svg" height="20" />
 </a>
 <a href="https://huggingface.co/datasets/yu2hi13/Dyn-Bench" target="_blank">
-    <img alt="HF Dataset: Dyn_Bench" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Dataset-DynamicVerse-ffc107?color=ffc107&logoColor=white" height="20" />
+    <img alt="HF Dataset: Dyn_Bench" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Dataset-DynBench-ffc107?color=ffc107&logoColor=white" height="20" />
 </a>
 <a href="https://github.com/Dynamics-X/Thinking-in-Dynamics" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-DynamicVerse-black?logo=github" height="20" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Thinking--in--Dynamics-black?logo=github" height="20" />
 </a>
 <!-- <a href="https://www.youtube.com/watch?v=0h7XysIpG8Y" target="_blank">
     <img alt="Demo Video" src="https://img.shields.io/badge/▶_Demo-YouTube-red?logo=youtube" height="20" />
