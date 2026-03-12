@@ -12,7 +12,6 @@
 <a href="https://dyn-bench.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/🌎_Website-Thinking--in--Dynamics-blue.svg" height="20" /></a>
 <a href="https://huggingface.co/datasets/yu2hi13/Dyn-Bench" target="_blank"><img alt="HF Dataset: Dyn_Bench" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Dataset-DynBench-ffc107?color=ffc107&logoColor=white" height="20" /></a>
 
-<br /><br />
 
 <p style="font-size: 1.15rem;">
     Yuzhi Huang<sup>*♠1</sup> &nbsp;
