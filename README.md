@@ -1,74 +1,3 @@
-<style>
-.author-block {
-    text-align: center;
-    margin: 30px auto 10px;
-    width: 100%;
-    line-height: 2;
-}
-
-.author-block .authors {
-    font-size: 1.15rem;
-    color: #333;
-}
-
-.author-block .authors a {
-    color: #333;
-    text-decoration: none;
-}
-
-.author-block .authors a:hover {
-    color: #1a3a6b;
-    text-decoration: underline;
-}
-
-.author-block .authors sup {
-    font-size: 0.7em;
-    color: #888;
-    margin: 0 1px;
-}
-
-.author-block .affiliations {
-    font-size: 1.0rem;
-    color: #555;
-    margin-top: 8px;
-}
-
-.author-block .affiliations sup {
-    font-size: 0.7em;
-    color: #888;
-    margin-right: 1px;
-}
-
-.author-block .affiliations .aff-logo {
-    height: 1.1em;
-    vertical-align: middle;
-    margin: 0 2px 0 4px;
-}
-
-.author-block .author-notes {
-    font-size: 0.92rem;
-    color: #999;
-    margin-top: 10px;
-}
-
-.author-block .author-venue {
-    font-size: 1.15rem;
-    font-weight: 700;
-    color: #888;
-    margin-top: 6px;
-    letter-spacing: 0.5px;
-}
-
-@media (max-width: 768px) {
-    .author-block {
-        width: 100%;
-    }
-    .author-block .authors {
-        font-size: 1.0rem;
-    }
-}
-</style>
-
 <div align="center" style="font-family: charter;">
 
 <h1>
@@ -83,42 +12,43 @@
 <a href="https://dyn-bench.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/🌎_Website-Thinking--in--Dynamics-blue.svg" height="20" /></a>
 <a href="https://huggingface.co/datasets/yu2hi13/Dyn-Bench" target="_blank"><img alt="HF Dataset: Dyn_Bench" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Dataset-DynBench-ffc107?color=ffc107&logoColor=white" height="20" /></a>
 
-<div class="author-block">
-    <div class="authors">
-        Yuzhi Huang<sup>*♠1</sup> &nbsp;
-        Kairun Wen<sup>*1</sup> &nbsp;
-        Rongxin Gao<sup>*1</sup> &nbsp;
-        Dongxuan Liu<sup>1</sup> &nbsp;
-        Yibin Lou<sup>3</sup> &nbsp;
-        Jie Wu<sup>2</sup> &nbsp;
-        Jing Xu<sup>7</sup>
-        Jian Zhang<sup>1</sup> &nbsp;
-        Zheng Yang<sup>1</sup> &nbsp;
-        Yunlong Lin<sup>1</sup> &nbsp;
-        Chenxin Li<sup>4</sup> &nbsp;
-        Panwang Pan<sup>1</sup> &nbsp;
-        Junbin Lu<sup>5</sup> &nbsp;
-        Jingyan Jiang<sup>6</sup>
-        Xinghao Ding<sup>1</sup> &nbsp;
-        Yue Huang<sup>&dagger; 1</sup> &nbsp;
-        Zhi Wang<sup>2</sup>
-    </div>
-    <div class="affiliations">
-        <sup>1</sup>XMU <img class="aff-logo" src="docs/xiaohui/xmu.png" alt="XMU"> &nbsp;&nbsp;
-        <sup>2</sup>THU <img class="aff-logo" src="docs/xiaohui/THU.png" alt="THU"> &nbsp;&nbsp;
-        <sup>3</sup>SUSTech <img class="aff-logo" src="docs/xiaohui/SUstech.png" alt="SUSTech"> &nbsp;&nbsp;
-        <sup>4</sup>CUHK <img class="aff-logo" src="docs/xiaohui/CUHK.png" alt="CUHK"> &nbsp;&nbsp;
-        <sup>5</sup>UW <img class="aff-logo" src="docs/xiaohui/UW.png" alt="UW"> &nbsp;&nbsp;
-        <sup>6</sup>SZTU <img class="aff-logo" src="docs/xiaohui/SZTU.png" alt="SZTU"> &nbsp;&nbsp;
-        <sup>7</sup>JNU <img class="aff-logo" src="docs/xiaohui/JNU.png" alt="JNU">
-    </div>
-    <div class="author-notes">
-        <sup>*</sup>Equal Contribution &nbsp;&nbsp;&nbsp; <sup>&dagger;</sup>Corresponding author &nbsp;&nbsp;&nbsp; <span>♠</span>Project lead
-    </div>
-    <div class="author-venue">
-        &#127775; CVPR 2026 &#127775;
-    </div>
-</div>
+<br /><br />
+
+<p style="font-size: 1.15rem;">
+    Yuzhi Huang<sup>*♠1</sup> &nbsp;
+    Kairun Wen<sup>*1</sup> &nbsp;
+    Rongxin Gao<sup>*1</sup> &nbsp;
+    Dongxuan Liu<sup>1</sup> &nbsp;
+    Yibin Lou<sup>3</sup> &nbsp;
+    Jie Wu<sup>2</sup> &nbsp;
+    Jing Xu<sup>7</sup> &nbsp;
+    Jian Zhang<sup>1</sup> &nbsp;
+    Zheng Yang<sup>1</sup> &nbsp;
+    Yunlong Lin<sup>1</sup> &nbsp;
+    Chenxin Li<sup>4</sup> &nbsp;
+    Panwang Pan<sup>1</sup> &nbsp;
+    Junbin Lu<sup>5</sup> &nbsp;
+    Jingyan Jiang<sup>6</sup> &nbsp;
+    Xinghao Ding<sup>1</sup> &nbsp;
+    Yue Huang<sup>&dagger; 1</sup> &nbsp;
+    Zhi Wang<sup>2</sup>
+</p>
+
+<p>
+    <sup>1</sup>XMU <img src="docs/xiaohui/xmu.png" height="16" align="center" alt="XMU"> &nbsp;&nbsp;
+    <sup>2</sup>THU <img src="docs/xiaohui/THU.png" height="16" align="center" alt="THU"> &nbsp;&nbsp;
+    <sup>3</sup>SUSTech <img src="docs/xiaohui/SUstech.png" height="16" align="center" alt="SUSTech"> &nbsp;&nbsp;
+    <sup>4</sup>CUHK <img src="docs/xiaohui/CUHK.png" height="16" align="center" alt="CUHK"> &nbsp;&nbsp;
+    <sup>5</sup>UW <img src="docs/xiaohui/UW.png" height="16" align="center" alt="UW"> &nbsp;&nbsp;
+    <sup>6</sup>SZTU <img src="docs/xiaohui/SZTU.png" height="16" align="center" alt="SZTU"> &nbsp;&nbsp;
+    <sup>7</sup>JNU <img src="docs/xiaohui/JNU.png" height="16" align="center" alt="JNU">
+</p>
+
+<p>
+    <i><sup>*</sup>Equal Contribution &nbsp;&nbsp;&nbsp; <sup>&dagger;</sup>Corresponding author &nbsp;&nbsp;&nbsp; ♠Project lead</i>
+</p>
+
+<h3>&#127775; CVPR 2026 &#127775;</h3>
 
 <img src="docs/resources/teaser.png" width="100%"/>
 <p align="justify"><i>Humans inhabit a physical 4D world where geometric structure and semantic content evolve over time. While current Multimodal Large Language Models (MLLMs) excel in static visual understanding, can they also be adept at "thinking in dynamics" — perceiving, tracking and reasoning about spatio-temporal dynamics in evolving scenes? We introduce <strong>Dyn-Bench</strong>, a large-scale benchmark comprising 1k videos, 7k VQA pairs, and 3k dynamic object grounding pairs, systematically assessing MLLMs' ability to perceive, track, and reason about object motion, scene evolution, and camera motion in the physical 4D world.</i></p>
