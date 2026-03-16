@@ -249,12 +249,13 @@ We gratefully acknowledge the open-source community and the authors of the video
 If you find our paper and code useful in your research, please consider giving us a star :star: and citing our work :pencil: :)
 
 ```bibtex
-@misc{wen2025dynamicverse,
-    title={DynamicVerse: A Physically-Aware Multimodal Framework for 4D World Modeling},
-    author={Kairun Wen and Yuzhi Huang and Runyu Chen and Hui Zheng and Yunlong Lin and Panwang Pan and Chenxin Li and Wenyan Cong and Jian Zhang and Junbin Lu and Chenguo Lin and Dilin Wang and Zhicheng Yan and Hongyu Xu and Justin Theiss and Yue Huang and Xinghao Ding and Rakesh Ranjan and Zhiwen Fan},
-    year={2025},
-    eprint={2512.03000},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+@misc{huang2026thinkingdynamicsmultimodallarge,
+      title={Thinking in Dynamics: How Multimodal Large Language Models Perceive, Track, and Reason Dynamics in Physical 4D World}, 
+      author={Yuzhi Huang and Kairun Wen and Rongxin Gao and Dongxuan Liu and Yibin Lou and Jie Wu and Jing Xu and Jian Zhang and Zheng Yang and Yunlong Lin and Chenxin Li and Panwang Pan and Junbin Lu and Jingyan Jiang and Xinghao Ding and Yue Huang and Zhi Wang},
+      year={2026},
+      eprint={2603.12746},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.12746}, 
 }
 ```
