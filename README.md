@@ -8,7 +8,7 @@
 <img src="docs/resources/paper.png" width="50%"/>
 <br />
 
-<a href="https://arxiv.org/abs/2512.03000" target="_blank"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2512.03000-red?logo=arxiv" height="20" /></a>
+<a href="https://arxiv.org/pdf/2603.12746" target="_blank"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2512.03000-red?logo=arxiv" height="20" /></a>
 <a href="https://dyn-bench.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/🌎_Website-Thinking--in--Dynamics-blue.svg" height="20" /></a>
 <a href="https://huggingface.co/datasets/yu2hi13/Dyn-Bench" target="_blank"><img alt="HF Dataset: Dyn_Bench" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Dataset-DynBench-ffc107?color=ffc107&logoColor=white" height="20" /></a>
 
