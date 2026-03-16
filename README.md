@@ -56,7 +56,9 @@
 
 ## Release
 
-- `2025-XX-XX` 🚀 Dyn-Bench evaluation code and benchmark released.
+- [2026.03.16] 📄 Thinking in Dynamics paper released on arXiv.
+- [2026.03.01] 🚀 Dyn-Bench evaluation code and benchmark released.
+- [2026.02.21] 🎉 Thinking in Dynamics has been accepted by CVPR 2026!
 
 ## Contents
 
