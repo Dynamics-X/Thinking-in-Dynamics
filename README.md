@@ -133,7 +133,7 @@ pip install -r requirements.txt
 **2. Clone Repository**
 
 ```bash
-git clone https://github.com/LilyYang0504/bench.git
+git clone https://github.com/Dynamics-X/Thinking-in-Dynamics
 cd bench
 ```
 
