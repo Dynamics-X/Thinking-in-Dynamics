@@ -109,7 +109,7 @@ Our benchmark is hosted on [HuggingFace](https://huggingface.co/datasets/kairunw
 # NOTE: pip install datasets
 
 from datasets import load_dataset
-dyn_bench = load_dataset("kairunwen/DynamicVerse")
+dyn_bench = load_dataset("yu2hi13/Dyn-Bench")
 print(dyn_bench)
 ```
 
